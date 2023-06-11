@@ -1,0 +1,93 @@
+/* style.css */
+
+/* All page images */
+img {
+    height:auto;
+    width: 500px;
+}
+
+
+
+/* Pizza Page */
+.title-pizza {
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.subsection.header {
+    color:brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main-text-pizza {
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingedients-and-directions-pizza {
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+/* Spaghetti Pasta Page */
+.title-pasta {
+    color: green;
+    font-family:"Monaco",monospace ;
+}
+
+.subsection {
+    color:chartreuse;
+    font-family: "Courier New",monospace;
+}
+
+.main-text-pasta {
+    color: green;
+    font-family:"Lucida Console",monospace ;
+}
+
+.ingredients-and-directions-pasta {
+    color: green;
+    font-family:"Lucida Console",monospace;
+}
+
+
+
+
+
+/* Fried Rice Page */
+.title-rice {
+    color: goldenrod;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.description-rice {
+    color: coral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main-text-rice {
+    color: burlywood;
+    background-color: white;
+    font-weight:bolder;
+    font-family:serif;
+}
+
+.ingredients-and-directions-rice {
+    color: darksalmon;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.rice-list {
+    color: burlywood;
+    background-color: white;
+    font-family:serif;
+}
+
+
+
+
+
+
+
