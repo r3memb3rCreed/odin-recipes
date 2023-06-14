@@ -4,6 +4,8 @@
 img {
     height:auto;
     width: 500px;
+    margin-left: 400px;
+    margin-bottom: 30px;
 }
 
 
@@ -12,16 +14,19 @@ img {
 .title-pizza {
     color:red;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 425px;
 }
 
 .subsection.header {
     color:brown;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
 }
 
 .main-text-pizza {
     color: crimson;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
 }
 
 .ingedients-and-directions-pizza {
@@ -35,6 +40,7 @@ img {
 .title-pasta {
     color: green;
     font-family:"Monaco",monospace ;
+    margin-left: 200px;
 }
 
 .subsection {
@@ -45,11 +51,13 @@ img {
 .main-text-pasta {
     color: green;
     font-family:"Lucida Console",monospace ;
+    margin-top: 40px;
 }
 
 .ingredients-and-directions-pasta {
     color: green;
     font-family:"Lucida Console",monospace;
+    margin-top: 40px;
 }
 
 
@@ -60,6 +68,7 @@ img {
 .title-rice {
     color: goldenrod;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 510px;
 }
 
 .description-rice {
@@ -72,11 +81,13 @@ img {
     background-color: white;
     font-weight:bolder;
     font-family:serif;
+    margin-top: 40px;
 }
 
 .ingredients-and-directions-rice {
     color: darksalmon;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 40px;
 }
 
 .rice-list {
