@@ -216,86 +216,43 @@
     background-color: black;
 }
 
+/* Fried Rice Page */
 
-/* Spaghetti Pasta Page... */
-
-
-/*.subsection.header {
-    color:brown;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.contain-top-rice {
+    display: flex;
+    flex-direction: column;
 }
 
-.main-text-pizza {
-    color: crimson;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+/* Top of Fried Rice Page */
+
+.contain-top-rice .rice-header-container {
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+    padding: 28px;
 }
 
-.ingedients-and-directions-pizza {
-    color: crimson;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-*/
-
-
-/* Spaghetti Pasta Page 
-.title-pasta {
-    color: green;
-    font-family:"Monaco",monospace ;
-    margin-left: 200px;
+.rice-header {
+    display: flex;
+    background-color: antiquewhite;
+    color:burlywood;
+    padding: 10px;
+    border-radius: 10px;
 }
 
-.subsection {
-    color:chartreuse;
-    font-family: "Courier New",monospace;
+.contain-top-rice .rice-img-container {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
 }
 
-.main-text-pasta {
-    color: green;
-    font-family:"Lucida Console",monospace ;
-    margin-top: 40px;
+.rice-img {
+    display: flex;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:antiquewhite;
 }
 
-.ingredients-and-directions-pasta {
-    color: green;
-    font-family:"Lucida Console",monospace;
-    margin-top: 40px;
-}
-
-
-
-
-
-/* Fried Rice Page 
-.title-rice {
-    color: goldenrod;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 510px;
-}
-
-.description-rice {
-    color: coral;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.main-text-rice {
-    color: burlywood;
-    background-color: white;
-    font-weight:bolder;
-    font-family:serif;
-    margin-top: 40px;
-}
-
-.ingredients-and-directions-rice {
-    color: darksalmon;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-top: 40px;
-}
-
-.rice-list {
-    color: burlywood;
-    background-color: white;
-    font-family:serif;
-}
 
 
 
