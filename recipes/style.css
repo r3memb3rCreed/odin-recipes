@@ -437,3 +437,38 @@
 
 /* Spaghetti Pasta Page */
 
+.contain-top-pasta {
+    display: flex;
+    flex-direction: column;
+}
+
+.contain-top-pasta .pasta-header-container {
+    display: flex;
+    background-color:#002D62;
+    padding: 28px;
+    justify-content: center;
+}
+
+.header-pasta {
+    display: flex;
+    background-color:#00308F;
+    border-radius: 10px;
+    color:#72A0C1;
+    padding: 14px;
+}
+
+.contain-top-pasta .pasta-img-container {
+    display: flex;
+    justify-content: center;
+    background-color: #002D62;
+    padding: 10px;
+}
+
+.pasta-img {
+    display: flex;
+    padding: 14px;
+    border-radius: 10px;
+    background-color: #72A0C1;
+}
+
+/* Middle of Pasta Page */
